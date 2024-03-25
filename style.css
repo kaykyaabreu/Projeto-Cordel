@@ -100,7 +100,6 @@ section.normal{
 }
 
 section.imagem{
-    background-color: rgb(63, 63, 63);
     color: white;
     box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.459);
     background-size: cover;
